@@ -12,4 +12,4 @@ Meu nome é Arthur
 
   @crlharthur_
 
-!.[].(https://media1.tenor.com/m/3YP9H1sKak8AAAAC/monster-high-draculaura.gif)
+![](https://media1.tenor.com/m/3YP9H1sKak8AAAAC/monster-high-draculaura.gif)
