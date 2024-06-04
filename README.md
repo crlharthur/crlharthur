@@ -2,7 +2,7 @@
 
 Meu nome é Arthur
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://wwww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
